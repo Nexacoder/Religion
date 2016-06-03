@@ -1,1 +1,92 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+body {
+  margin: 0px;
+}
 
+nav {
+  margin-top: 40px;
+  padding: 24px;
+  text-align: center;
+  font-family: Raleway;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+#nav-1 {
+  background: #3fa46a;
+}
+
+.link-1 {
+  transition: 0.5s ease;
+  background: #3fa46a;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  border-top: 4px solid #3fa46a;
+  border-bottom: 4px solid #3fa46a;
+  padding: 20px 0;
+  margin: 0 20px;
+}
+
+.link-1:hover {
+  border-top: 4px solid #ffffff;
+  border-bottom: 4px solid #ffffff;
+  padding: 6px 0;
+}
+
+h1 {
+    color: #00cc00;
+    text-decoration: underline;
+}
+
+h2 {
+  color: #ff9933;
+}
+
+h3 {
+  color: #ff9933;
+}
+
+marquee {
+  color: gold;
+  font-size: 20px;
+}
+
+::selection {
+  color: black;
+  background: yellow;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: transparent;
+  font-family: 'Raleway';
+}
+
+.full {
+  height: 100vh;
+  width: 100%;
+}
+
+#s1 {
+  background: url(http://www.printwallart.co.za/wp-content/uploads/2015/10/30599955.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #804000;
+  background-size: 1300px 700px;
+}
+
+#s2 {
+  background: black;
+  color: white;
+  font-size: 20px;
+  font-family: 'Raleway';
+}
+
+#s3 {
+  background: white;
+  color: black;
+  font-size: 20px;
+}
