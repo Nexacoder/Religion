@@ -18,7 +18,7 @@ nav {
 .link-1 {
   transition: 0.5s ease;
   background: transparent;
-  color: green;
+  color: red;
   font-size: 20px;
   text-decoration: none;
   border-top: 6px solid transparent;
@@ -28,27 +28,28 @@ nav {
 }
 
 .link-1:hover {
-  border-top: 4px solid red;
-  border-bottom: 4px solid red;
+  border-top: 4px solid grey;
+  border-bottom: 4px solid grey;
   padding: 6px 0;
 }
 
 h1 {
-    color: #00cc00;
-    text-decoration: underline;
+    color: white;
+    text-decoration: none;
+  font-size: 40px;
 }
 
 h2 {
-  color: #ff9933;
+  color: white;
 }
 
 h3 {
-  color: #ff9933;
+  color: red;
 }
 
 ::selection {
-  color: white;
-  background: black;
+  color: blue;
+  background: gold;
 }
 
 body {
@@ -65,12 +66,12 @@ body {
 }
 
 #s1 {
-  background: url(https://openclipart.org/image/2400px/svg_to_png/212572/1421165237.png);
+  background: url(https://wallpaperscraft.com/image/colosseum_rome_italy_architecture_home_arch_of_constantine_trees_people_58119_1920x1080.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-color: white;
-  background-size: 1300px 700px;
+  background-size: cover;
   font-family: 'Raleway';
 }
 
@@ -84,6 +85,13 @@ body {
 #s3 {
   background: white;
   color: black;
+  font-size: 20px;
+  font-family: 'Raleway';
+}
+
+#s4 {
+  background: black;
+  color: white;
   font-size: 20px;
   font-family: 'Raleway';
 }
