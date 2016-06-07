@@ -76,20 +76,27 @@ body {
 }
 
 #s2 {
-  background: black;
+  background: #093415;
   color: white;
   font-size: 20px;
   font-family: 'Raleway';
 }
 
 #s3 {
-  background: white;
-  color: black;
+  background: #0D3D56;
+  color: white;
   font-size: 20px;
   font-family: 'Raleway';
 }
 
 #s4 {
+  background: #CD594A;
+  color: white;
+  font-size: 20px;
+  font-family: 'Raleway';
+}
+
+#s5 {
   background: black;
   color: white;
   font-size: 20px;
