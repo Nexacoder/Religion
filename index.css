@@ -28,8 +28,8 @@ nav {
 }
 
 .link-1:hover {
-  border-top: 4px solid gold;
-  border-bottom: 4px solid gold;
+  border-top: 4px solid red;
+  border-bottom: 4px solid red;
   padding: 6px 0;
 }
 
@@ -76,28 +76,43 @@ body {
 }
 
 #s2 {
-  background: #093415;
-  color: white;
+   background: url(http://mrbarbersocialstudies.com/Socialstudies/World_History_Chapter_7_files/1st%20Century%20Diaspora.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: green;
+  background-size: 550px 410px;
+  color: black;
   font-size: 20px;
   font-family: 'Raleway';
 }
 
 #s3 {
-  background: #0D3D56;
+   background: url(http://dreamatico.com/data_images/jesus/jesus-3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #0D3D56;
+  background-size: 378px 373px;
   color: white;
   font-size: 20px;
   font-family: 'Raleway';
 }
 
 #s4 {
-  background: #CD594A;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/2/2e/Mapspreadofxity.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #CD594A;
+   background-size: 500px 420px;
   color: white;
   font-size: 20px;
   font-family: 'Raleway';
 }
 
 #s5 {
-  background: black;
+  background-color: black;
   color: white;
   font-size: 20px;
   font-family: 'Raleway';
