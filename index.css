@@ -44,12 +44,12 @@ h2 {
 }
 
 h3 {
-  color: red;
+  color: white;
 }
 
 ::selection {
-  color: blue;
-  background: gold;
+  color: yellow;
+  background: black;
 }
 
 body {
