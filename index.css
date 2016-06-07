@@ -68,7 +68,7 @@ body {
 #s1 {
   background: url(https://wallpaperscraft.com/image/colosseum_rome_italy_architecture_home_arch_of_constantine_trees_people_58119_1920x1080.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-attachment: fixed;
   background-color: white;
   background-size: cover;
@@ -83,6 +83,7 @@ body {
   background-color: white;
   background-size: 550px 410px;
   color: black;
+  text-align: left;
   font-size: 20px;
   font-family: 'Raleway';
   margin-right: 400px;
@@ -91,11 +92,12 @@ body {
 #s3 {
    background: url(http://dreamatico.com/data_images/jesus/jesus-3.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-attachment: fixed;
   background-color: #0D3D56;
   background-size: 378px 373px;
   color: white;
+  text-align: left;
   font-size: 20px;
   font-family: 'Raleway';
 }
@@ -103,11 +105,12 @@ body {
 #s4 {
   background: url(https://upload.wikimedia.org/wikipedia/commons/2/2e/Mapspreadofxity.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-attachment: fixed;
   background-color: #CD594A;
    background-size: 500px 420px;
   color: white;
+  text-align: left;
   font-size: 20px;
   font-family: 'Raleway';
 }
