@@ -78,13 +78,14 @@ body {
 #s2 {
    background: url(http://mrbarbersocialstudies.com/Socialstudies/World_History_Chapter_7_files/1st%20Century%20Diaspora.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-attachment: fixed;
   background-color: white;
   background-size: 550px 410px;
   color: black;
   font-size: 20px;
   font-family: 'Raleway';
+  margin-right: 400px;
 }
 
 #s3 {
